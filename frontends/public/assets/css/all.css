@@ -1,0 +1,58 @@
+.my__text{
+	color: #e638e0ff;
+	cursor: pointer;
+}
+
+.my__text:hover{
+	color: #e638e0ff;
+}
+
+.my__bg{
+	background: #e638e0ff;
+}
+
+.my__input{
+	border:1px solid #e638e0ff;
+	padding: 5px;
+	border-radius: 20px;
+	padding-left: 20px;
+}
+
+.my__input:focus{
+	outline: none;
+}
+
+.my__button{
+	background: #e638e0ff;
+	border: 1px solid white;	
+	box-shadow: 0px 0px 10px -5px solid black;
+	color: white;
+}
+
+.my__button:hover{
+	border: 1px solid #e638e0ff;
+	color: #e638e0ff;
+	background: white;
+}
+
+.my__button__outline{
+	border: 1px solid #e638e0ff;
+	color: #e638e0ff;
+	background: white;
+	border-radius: 20px;
+	box-shadow: 0px 0px 10px -5px solid black;
+}
+
+.my__button__outline:hover{
+	background: #e638e0ff;
+	border: 0px solid #e638e0ff;
+	color: white;
+	border-radius: 20px;
+}
+
+.my__button__outline:focus{
+	background: #e638e0ff;
+	border: 0px solid #e638e0ff;
+	color: white;
+	border-radius: 20px;
+}
