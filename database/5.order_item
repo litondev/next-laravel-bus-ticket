@@ -1,0 +1,17 @@
+ticket_id
+ - int
+
+order_id
+ - int
+
+quantity
+ - int
+ 
+price
+ - int
+
+code
+ - text
+
+is_used
+ - boolean

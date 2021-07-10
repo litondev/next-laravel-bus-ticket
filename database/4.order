@@ -1,0 +1,14 @@
+ticket_id
+ - int
+
+user_id
+ - int
+
+total
+ - int
+
+status
+ - enum
+  - success
+  - payment
+  - failed

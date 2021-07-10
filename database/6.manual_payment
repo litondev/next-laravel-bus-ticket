@@ -1,0 +1,20 @@
+order_id
+ => int
+
+user_id
+ => int
+
+proof
+ => text
+
+description 
+ => text
+ 
+validated_at
+ => timestamp
+ 
+status
+ => enum
+  - success
+  - pending
+  - failed

@@ -1,0 +1,14 @@
+username
+ - string
+
+photo 
+ - text
+
+password
+ - text
+
+email
+ - string
+
+phone 
+ - string
